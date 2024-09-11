@@ -1,4 +1,4 @@
-# Basic MQ-2/Arduino
+# Basic MQ2/Arduino
 The MQ2 sensor is commonly used for detecting gas levels (such as LPG, smoke, alcohol, propane, hydrogen, methane, and carbon monoxide). Here's a step-by-step guide to create an Arduino project using the MQ2 sensor to measure air quality and print the values to the serial monitor.
 
 # Components Needed
